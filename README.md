@@ -1,5 +1,3 @@
-# Contrastive_Learning
-
 # Multimodal Cancer Analysis: Combining WSI and Gene Expression
 
 A personal project exploring how to combine histology images and gene expression data for cancer analysis using contrastive learning.
